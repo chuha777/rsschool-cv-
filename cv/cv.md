@@ -30,6 +30,5 @@ background-image: url("cat-fat.svg");
 | codacademy | [codecademy-profile](https://www.codecademy.com/profiles/design7088473777 "profile codeacademy") |
 | GitHub | [GitHub-profile](https://github.com/chuha777 "Git") |
 | RSScool | [RSScool-profile]( https://app.rs.school/profile "Profile") |
-
 7. **Education** (higher education "Belgut", online learning QA);
 8. **English**: A2. 

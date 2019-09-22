@@ -42,7 +42,7 @@ background-image: url("cat-fat.svg");
 7. **English**: A2 
 8. **Experience**:  
 
-| Ñourses | Link |
+| Courses | Link |
 | ------ | ------ |
 | htmlacademy | [htmlacademy-profile](https://htmlacademy.ru/profile/id1190359 "profile htmlacademy") |
 | codacademy | [codecademy-profile](https://www.codecademy.com/profiles/design7088473777 "profile codeacademy") |

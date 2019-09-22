@@ -23,7 +23,7 @@ background-image: url("cat-fat.svg");
 }
 ```  
 6. **Education** (higher education "Belgut", online learning QA);
-7. **English**: A2 
+7. **English**: A2
 8. **Experience**:  
 
 | Ñourses | Link |

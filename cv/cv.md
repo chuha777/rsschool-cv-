@@ -22,13 +22,13 @@ color: black !important;
 background-image: url("cat-fat.svg");
 }
 ```  
-6. **Experience**:  
+6. **Education** (higher education "Belgut", online learning QA);
+7. **English**: A2 
+8. **Experience**:  
 
-| Ð¡ourses | Link |
+| Ñourses | Link |
 | ------ | ------ |
 | htmlacademy | [htmlacademy-profile](https://htmlacademy.ru/profile/id1190359 "profile htmlacademy") |
 | codacademy | [codecademy-profile](https://www.codecademy.com/profiles/design7088473777 "profile codeacademy") |
 | GitHub | [GitHub-profile](https://github.com/chuha777 "Git") |
 | RSScool | [RSScool-profile]( https://app.rs.school/profile "Profile") |
-7. **Education** (higher education "Belgut", online learning QA);
-8. **English**: A2. 

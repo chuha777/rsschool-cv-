@@ -14,22 +14,6 @@ background-image: url("cat-foodlove.svg");
 #scary {
 background-image: url("cat-slippers.svg");
 }
-# CV Andrei Chehovskii
-1. **Full name**: Andrei Chehovskii;
-2. **Contact Info**: 
-* *email:* chuha@tut.by 
-* *skype:* chuha777
-* *phone:* + 375(29)7394604 
-3. **Summary**: I want to become a front-end developer; 
-4. **Skills**: (```HTML```, ```CSS```, ```Git```,``` Agile```, ```Canban```, ```Scrum```, ```Jira```)
-5. **Code examples**: 
-```css 
-.gallery .cat-foodlove {
-background-image: url("cat-foodlove.svg");
-}
-#scary {
-background-image: url("cat-slippers.svg");
-}
 .gallery .cat-cage {
 background-image: url("cat-cage.svg");
 color: black !important;
